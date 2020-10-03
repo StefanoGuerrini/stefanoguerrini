@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/backend-dev-white.svg)  
 ![](https://badgen.net/badge/open%20source/lover/red?icon=github)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoguerrini) 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoguerrini">
+</p>
 
 <!--
 **StefanoGuerrini/stefanoguerrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
